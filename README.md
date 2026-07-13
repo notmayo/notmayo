@@ -1,4 +1,4 @@
-# notmayo README.md
+# Welcome!
 
 ## Documentation & Templates
 

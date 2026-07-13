@@ -16,4 +16,4 @@
 
 ## Documentation & Templates
 
-- [Template: compose.yml](compose.yml-template.md) - My opinionated template on Docker/Podman Compose yaml files
+- [compose.yml](compose.yml-template.md) - My opinionated template on Docker/Podman Compose yaml files
